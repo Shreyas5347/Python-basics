@@ -1,0 +1,16 @@
+## What is a Class?
+A class is a blueprint used to create objects.
+Suppose we are going to construct a building so for that a plan is required that plan or blueprint is called as class and buildings constructed based on plan is called object 
+•  Class = blueprint 
+•  Object = real item(instance)
+•  Class variables = common for all objects
+
+## Reference Variable
+• A reference variable is a variable that stores the reference (address) of an object.
+• It is used to access the object's attributes and methods.
+
+## Object
+• An object is an instance of a class.
+• It contains its own data (attributes) and can access methods defined in the class.
+
+
